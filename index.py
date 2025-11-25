@@ -3,3 +3,4 @@ for i in range(100):
         print(i)
     else:
         print('не делиться на 10 без остатка')
+        print('банкай')
